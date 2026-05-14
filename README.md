@@ -26,31 +26,29 @@ Communication Diagram
 Package Diagram      
 Design the database with tables for Customer, Account, and Transaction.  
 
-
-
 # UML DIAGRAMS:
 
-## Use Case Diagram
+### Use Case Diagram
 
 <img width="863" height="560" alt="image" src="https://github.com/user-attachments/assets/89c9713b-1430-4fc0-aa67-8ea260b7d91f" />
 
-## Class Diagram
+### Class Diagram
 
 <img width="1055" height="712" alt="image" src="https://github.com/user-attachments/assets/b07aa259-2cc6-4607-9b8d-863e8ebbe15f" />
 
-## Activity Diagram
+###Activity Diagram
 
 <img width="1029" height="1035" alt="image" src="https://github.com/user-attachments/assets/214edab8-e95b-4fe3-80aa-ec94a5e42224" />
 
-## Communication Diagram
+### Communication Diagram
 
 <img width="1150" height="770" alt="image" src="https://github.com/user-attachments/assets/c7efb9ac-5c65-47ce-bd9a-0676e90f0986" />
 
-## Package Diagram
+### Package Diagram
 
 <img width="1032" height="809" alt="image" src="https://github.com/user-attachments/assets/d44c2964-633b-4565-ac44-72b89004a2f0" />
 
-## Sequence Diagram
+### Sequence Diagram
 
 <img width="771" height="626" alt="image" src="https://github.com/user-attachments/assets/393c0b57-bb27-4cf1-8ce6-4bd1ecdfbf72" />
 
